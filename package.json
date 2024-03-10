@@ -1,0 +1,30 @@
+{
+  "name": "node-url-to-github-obj",
+  "version": "1.0.0",
+  "description": "A module for node.js and browsers that extracts useful properties like user, repo, and branch from various flavors of GitHub URLs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/btuyen2606/node-url-to-github-obj"
+  },
+  "website": "https://github.com/btuyen2606/node-url-to-github-obj.git",
+  "keywords": [
+    "convert",
+    "node",
+    "github"
+  ],
+  "author": "Dang Ngoc Bich Tuyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btuyen2606/node-url-to-github-obj/issues"
+  },
+  "dependencies": {
+    "eslint": "^2.10.2",
+    "is-url": "^1.1.0",
+    "btuyen-btn-events": "^1.0.0"
+  },
+  "homepage": "https://github.com/btuyen2606/node-url-to-github-obj#readme"
+}
